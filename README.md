@@ -22,7 +22,7 @@ apenas um iniciante no mundo a progamação 🖥️.
   </a>
  
  <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img width=335 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAlencarr&show_icons=true&theme=highcontrast&layout=compact" />
+    <img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAlencarr&layout=compact&langs_count=7&theme=highcontrast"/>
   </a> &nbsp;
 </p>
 
