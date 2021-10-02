@@ -17,13 +17,13 @@ apenas um iniciante no mundo a progamação 🖥️.
 
 
 <p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img width=335 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAlencarr&show_icons=true&theme=highcontrast&layout=compact" />
-  </a> &nbsp; 
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats" >
+   <a href="https://github.com/anuraghazra/github-readme-stats" >
     <img width=400 src="https://github-readme-stats.vercel.app/api?username=OtavioAlencarr&show_icons=true&theme=highcontrast" />
   </a>
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats" >
+    <img width=335 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAlencarr&show_icons=true&theme=highcontrast&layout=compact" />
+  </a> &nbsp;
 </p>
 
 
