@@ -3,12 +3,11 @@
 <p>
  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://i.pinimg.com/originals/47/92/ec/4792ec3a30b4c4ee70473a77eeef07ac.gif">
  </div> 
-Meu nome é Otávio Alencar, mas pode me chamar de Tavo .<br>
+Meu nome é Otávio Alencar .<br>
 Moro no Brasil 🇧🇷.<br>
 apenas um iniciante no mundo a progamação 🖥️.
 
-- 📕 No momento estudando Git e React native.<br>
-- 🧠 Uma leve experiência em Python.
+
 - 📫 Meu email: oalencar32@gmail.com.
 <br>
 </p>
